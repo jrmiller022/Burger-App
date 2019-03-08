@@ -1,15 +1,15 @@
 insert into burgers
-    (burger_name)
+    (burger_name, devoured)
 values
-    ('CheeseBurger');
+    ('CheeseBurger', true);
 insert into burgers
-    (burger_name)
+    (burger_name, devoured)
 values
-    ('Hamburger');
+    ('Hamburger', false);
 insert into burgers
-    (burger_name)
+    (burger_name, devoured)
 values
-    ('Veggie Burger');
+    ('Veggie Burger', false);
 
 SELECT *
 FROM burgers;
