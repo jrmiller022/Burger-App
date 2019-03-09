@@ -1,4 +1,16 @@
+body {
+    background-image: url("/assets/img/burgerpic.jpg");
+    background-size: 100%;
+}
 
+h1 {
+    font-style: oblique;
+    font-size: 75px;
+}
+
+hr {
+    display: inline;
+}
  
   
 

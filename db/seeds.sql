@@ -5,11 +5,11 @@ values
 insert into burgers
     (burger_name, devoured)
 values
-    ('Hamburger', false);
+    ('Hamburger', true);
 insert into burgers
     (burger_name, devoured)
 values
-    ('Veggie Burger', false);
+    ('Veggie Burger', true);
 
 SELECT *
 FROM burgers;
