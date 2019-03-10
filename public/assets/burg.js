@@ -39,4 +39,16 @@ $(function () {
             }
         );
     });
+
+    $(".delete-devoured").on("click", function (event) {
+        var id = $(this).data("id");
+
+        $.ajax("/api/burgers/" + id, {
+            type: "DELETE",
+
+        }).then(function () {
+            console.log("Deleted burger", id);
+            location.reload();
+        });
+    });
 });
