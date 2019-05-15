@@ -7,3 +7,5 @@
 ### I created a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). I used Node and MySQL to query and route data in the app, and Handlebars to generate the HTML.
 
 ### Link to Heroku Site to see App. https://calm-escarpment-56914.herokuapp.com/.
+
+![alt text](/public/assets/img/Screen-Shot.png).
