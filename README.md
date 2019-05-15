@@ -2,7 +2,7 @@
 
 ## Eat-Da-Burger! It is a restaurant app that lets users input the names of burgers they'd like to eat. User can also input the burgers once they have eatan it. 
 
-###Overview 
+### Overview 
 
 ### I created a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). I used Node and MySQL to query and route data in the app, and Handlebars to generate the HTML.
 
